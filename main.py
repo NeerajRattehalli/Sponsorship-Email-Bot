@@ -7,11 +7,11 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase 
 from email import encoders 
   
-fromaddr = "sponsorships@frontierhacks.org"
-password = "*frontier*HACKS2019"
+fromaddr = "email@gmail.org"
+password = "password"
 name = "Neeraj"
 title = "FrontierHacks Sponsorship Director"
-phonenumber = "(650) 454-5789"
+phonenumber = "(111) 111-1111"
 website = "https://frontierhacks.com/"
 hackathonName = "FrontierHacks"
 data = {}
