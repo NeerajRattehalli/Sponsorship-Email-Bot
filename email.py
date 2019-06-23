@@ -30,7 +30,7 @@ with open('CompanyNames.csv') as csvDataFile:
 
 name = "Neeraj"
 title = "FrontierHacks Sponsorship Director"
-phonenumber = "(650) 454-5789"
+phonenumber = "(111) 111-1111"
 website = "https://frontierhacks.com/"
 hackathonName = "FrontierHacks"
         
